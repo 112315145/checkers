@@ -1,22 +1,38 @@
-Welcome to Lumache's documentation!
-===================================
+.. Checkers documentation master file, created by
+   sphinx-quickstart on Sat Sep 21 08:30:52 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Checkers Journey!
+====================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+========================================================================================================================
+To Learn, Compare and Analyze Minimax Algorithm and Reinforcement Learning through Implementation in Checkers game
+========================================================================================================================
 
-.. note::
+.. topic:: **Our Implementations Include**
 
-   This project is under active development.
+     * 2 Player Checkers Game
+     * Human vs Minimax Bot Game
+     * Human vs Reinforcement Learning Bot(Q Learning) Game
+     * Minimax vs RL Game
+     
+     *We Compared and Analysed the two Bots against each other, human player and random agent*
 
-Contents
---------
+
+
 
 .. toctree::
+   introduction_to_checkers
+   objective_and_implementations
+   minimax_bot
+   rl_bot
+   comparision_and_analysis
+   :maxdepth: 2
+   :caption: Contents:
 
-   usage
-   api
+
+
+
+**Check out our Gitlab at:** https://gitlab.com/algorific1/project
+
